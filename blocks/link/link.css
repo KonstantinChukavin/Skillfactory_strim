@@ -1,0 +1,11 @@
+.link {
+    font-size: 18px;
+    line-height: 29px;
+    color: #4B321D;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.link:hover {
+    color: gold;
+}

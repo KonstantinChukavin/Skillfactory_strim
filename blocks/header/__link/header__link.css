@@ -1,0 +1,8 @@
+.header__link {
+    margin: 0;
+    margin-right: 36px;
+}
+
+.header__link:nth-child(4n) {
+    margin-right: 0;
+}

@@ -1,0 +1,13 @@
+.header__block {
+    margin-top: 43px;
+    margin-left: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 500px) {
+    .header__block {
+        margin-left: 40px;
+    }
+}
